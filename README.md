@@ -1,2 +1,2 @@
 # Simple_linear_regression
-By using linear regression found the best data needs to be feeded for an ml model to predict the sales of the data given
+The first step is data prepartion and segregation the data for our model yhe next step is freature selection through exploratory data analysis.After selecting the features,the selected features corresponding sales data into the model.once the model is been trained using the test and train datasets it will make predictions here the model evaluation is calculated the best feature selection needed.
